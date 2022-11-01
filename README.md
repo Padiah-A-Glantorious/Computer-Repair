@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Padiah-A-Glantorious
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m proficient with the LAMP stack currently but also learning the MERN stack 
 - 📫 How to reach me ... well you can send me an email on ahmedpadiah@gmail.com altenatively you can find me on instagram under the username aj_da.1st
 
 <!---
